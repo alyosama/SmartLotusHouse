@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LOTUS</string>
+    <string name="dummy_button">Start Connection</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="send">Send</string>
+    <string name="_192_168_1_2">192.168.1.2</string>
+    <string name="start_connection">Start Connection</string>
+
+    <string-array name="rooms_array">
+        <item>Bed Room</item>
+        <item>Living Room</item>
+        <item>Kitchen</item>
+    </string-array>
+    
+</resources>
